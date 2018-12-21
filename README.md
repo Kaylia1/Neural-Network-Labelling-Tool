@@ -2,14 +2,14 @@
 Writes labelling information in KITTI format to specified text file.
 
 
-Dependencies:
+DEPENDENCIES:
 
 -Python 2 (https://www.python.org/downloads/)
 
 -PIL (https://wp.stolaf.edu/it/installing-pil-pillow-cimage-on-windows-and-mac/).
 
 
-Instructions:
+INSTRUCTIONS:
 
 -Directly edit code, set file paths of where images are drawn from and where text files are set (text file folder can be empty).
 
@@ -26,14 +26,14 @@ Instructions:
 -Remember to save!  This writes the information into the text file.
 
 
-Mode 2: Keyboard -Fast Editing!
+MODE 2: KEYBOARD -Fast Editing!
 
 -On keyboard, type numbers to select boxes of corresponding number.
 
 -On keyboard, type WASD keys to select sliders, then type arrow keys to adjust them.
 
 
-Further Clarification:
+FURTHER CLARIFICATION:
 
 -This program only records object name, truncated (boolean), xmin, ymin, xmax, ymax
 
