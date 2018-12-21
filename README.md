@@ -2,7 +2,9 @@
 Writes labelling information in KITTI format to specified text file.
 
 Dependencies:
+
 -Python 2 (https://www.python.org/downloads/)
+
 -PIL (https://wp.stolaf.edu/it/installing-pil-pillow-cimage-on-windows-and-mac/).
 
 Instructions:
